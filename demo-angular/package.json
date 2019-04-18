@@ -6,7 +6,7 @@
   "nativescript": {
     "id": "org.nativescript.demoangular",
     "tns-android": {
-      "version": "5.3.0"
+      "version": "5.3.0-2019-03-19-143503-02"
     },
     "tns-ios": {
       "version": "5.3.0"
@@ -31,8 +31,8 @@
     "nativescript-theme-core": "~1.0.4",
     "reflect-metadata": "~0.1.10",
     "rxjs": "^6.3.3",
-    "tns-core-modules": "^5.0.0",
-    "tns-platform-declarations": "^5.0.0",
+    "tns-core-modules": "androidx",
+    "tns-platform-declarations": "androidx",
     "zone.js": "~0.8.26"
   },
   "devDependencies": {
